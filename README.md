@@ -1,3 +1,4 @@
+
 This line chart is constructed from a TSV file storing the daily average temperatures of New York, San Francisco and Austin over the last year. The chart employs [conventional margins](http://bl.ocks.org/3019563) and a number of D3 features:
 
 * [d3.tsv](https://github.com/mbostock/d3/wiki/CSV) - load and parse data
@@ -9,3 +10,6 @@ This line chart is constructed from a TSV file storing the daily average tempera
 * [d3.keys](https://github.com/mbostock/d3/wiki/Arrays#wiki-d3_keys) - compute column names
 * [d3.svg.axis](https://github.com/mbostock/d3/wiki/SVG-Axes) - display axes
 * [d3.svg.line](https://github.com/mbostock/d3/wiki/SVG-Shapes#wiki-line) - display line shape
+=======
+sensors-d3
+==========
